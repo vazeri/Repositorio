@@ -10,7 +10,7 @@ Phone: 186 219 23213
 baseurl: "/Repositorio" # the subpath of your site, e.g. /blog
 url: "https://vazeri.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-github_username:  jekyll
+github_username: vazeri
 
 # Build settings
 # highlighter: rouge
