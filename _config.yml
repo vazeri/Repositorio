@@ -1,16 +1,15 @@
-title: Xu.Jian
-email: xx2610@gmail.com
-
+title: Cueva Digital
+email: erick@ahorratec.org
 name: Xu.Jian
 Phone: 186 219 23213
 # 这两个是顶栏点击手机图标弹出的信息.
 
 
 
-baseurl: "/Repositorio" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://vazeri.github.io/Repositorio" # the base hostname & protocol for your site, e.g. http://example.com
 
-github_username:  jekyll
+github_username:  vazeri
 
 # Build settings
 # highlighter: rouge
@@ -27,13 +26,13 @@ gems:
 
 
 
-exclude: 
-  - node_modules 
+exclude:
+  - node_modules
   - sass
   - webpack
   - Gemfile
-  - Gemfile.lock    
-  - webpack 
+  - Gemfile.lock
+  - webpack
   - .vscode
   - jekyll-theme-CMS-2.2.2.gem
 
@@ -47,23 +46,8 @@ destination: _site
 
 ###########################################   顶部链接 设置
 githubHomeURL:  https://github.com/Xu-Jian
-# 这个是顶部 github Home 图标的链接. 
+# 这个是顶部 github Home 图标的链接.
 githubReadmeURL:  https://github.com/Xu-Jian/Xu-Jian.github.io
 
 codePen_url:  http://codepen.io/Xu-Jian/
 # 这个是顶部 codepen 图标的链接.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
